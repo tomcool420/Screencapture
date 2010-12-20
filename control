@@ -1,0 +1,11 @@
+Package: org.tomcool.screencapture
+Name: screencapture
+Conflicts: org.tomcool.ioscanner(<<0.0.2)
+Replaces: org.tomcool.ioscanner(<<0.0.2)
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Takes a screenshot of selected iosurface
+Maintainer: Thomas Cool <thomas.cool@me.com>
+Author: Thomas Cool <thomas.cool@me.com>
+Section: System
+Tag: role::hacker
